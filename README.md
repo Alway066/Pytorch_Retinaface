@@ -19,6 +19,10 @@
 
 ### Weight
 + [GoogleDriver](https://drive.google.com/file/d/1YbMLrUdgmY1vNTQ8Y6OhR0pKifZeCGWa/view?usp=sharing)
+> | resnet50-retinaface | Easy | Medium | Hard |
+> | :----: | :----: | :----: | :----: |
+> | AP | 94.3486% | 93.3151% | 88.6972% |
++ ![face-detect-ap](./data/output/bbox_pred_acc.png)
 
 ### Train
 + TODO release code
