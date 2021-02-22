@@ -3,11 +3,12 @@
 ```
     author is leilei
     dataset is widerface
+    face detection, face key point detection, and face pose estimation
 ```
 
 ### Note
 + This repository is forked from [biubug6/Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface)
-+ Based on this project, we merge the three tasks of face detection, face key point detection, and face pose estimation into one task.
++ Based on this project, we merge the three tasks of **face detection, face key point detection, and face pose estimation** into one task.
 
 ### Inference
 ```
