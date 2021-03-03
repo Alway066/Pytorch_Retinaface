@@ -9,6 +9,7 @@
 ### Note
 + This repository is forked from [biubug6/Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface)
 + Based on this project, we merge the three tasks of **face detection, face key point detection, and face pose estimation** into one task.
++ Now, we only release network's code and demo's code! More codes will be released in the future.
 
 ### Inference
 ```
